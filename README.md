@@ -30,9 +30,26 @@ This project investigates the following questions:
 -https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210007701
 -https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000501
 -https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410022301
+-https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810024502
 
 ### United States
-
+- https://data.bls.gov/timeseries/APU0000717311?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
+- https://data.bls.gov/timeseries/APU0000715211?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
+- https://data.bls.gov/timeseries/APU0000701111?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
+- https://data.bls.gov/timeseries/APU0000701312?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
+- https://data.bls.gov/timeseries/APU0000712403?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
+- https://data.bls.gov/timeseries/APU0000711415?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
+- https://data.bls.gov/timeseries/APU0000711412?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
+- https://data.bls.gov/timeseries/APU0000711211?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
+- https://data.bls.gov/timeseries/APU0000711311?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
+- https://data.bls.gov/timeseries/APU0000711312?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
+- https://data.bls.gov/timeseries/APU0000711111?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
+- https://data.bls.gov/timeseries/APU0000708111?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
+- https://data.bls.gov/timeseries/APU0000709112?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
+- https://data.bls.gov/timeseries/APU0000704111?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
+- https://data.bls.gov/timeseries/APU0000FF1101?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
+- https://data.bls.gov/timeseries/APU0000703112?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
+- 
 
 ## Tools Used
 
@@ -83,10 +100,15 @@ Completed:
 
 Next steps:
 
-- Download core CPI datasets for Canada and the United States
+- Clean the Canadian data
+- Clean the American data
+- Standardize units
+- Decide which product matches are strong enough to use
+- Add exchange rate data
+- Build the combined analysis table
+- Create visualizations
+- write final analysis
 - Download wage and earnings datasets
-- Identify comparable grocery basket items
-- Begin cleaning and standardizing the data
 
 ## Author
 
